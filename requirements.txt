@@ -1,0 +1,9 @@
+  google-auth
+  google-auth-oauthlib
+  google-api-python-client
+  mcp>=1.9.1
+  langchain-mcp-adapters>=0.1.7
+  langgraph
+  langchain_groq
+  python-dotenv
+  langsmith
